@@ -22,3 +22,15 @@ desc categories;
 INSERT INTO categories (name) values('Eletronics');
 SELECT * FROM categories;
 ```
+
+Upload `mysql.properties` connector file to Control Center connectors section.
+New topis:
+- mysql-server
+- mysql-server.fullcycle.categories
+- mysql-history
+
+```sh
+INSERT INTO categories (name) values('Eletronics');
+```
+
+Check the messages of `mysql-server.fullcycle.categories` topic

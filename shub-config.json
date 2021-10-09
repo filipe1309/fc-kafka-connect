@@ -1,0 +1,14 @@
+{
+    "version": "0.21.3",
+    "username": "Filipe Leuch Bonfim",
+    "github_username": "filipe1309",
+    "project_name": "FC Kafka Connect",
+    "project_repo_name": "fc-kafka-connect",
+    "project_repo_link": "https://github.com/filipe1309/fc-kafka-connect.git",
+    "course_source": "FullCycle",
+    "course_name": "Kafka Connect",
+    "course_link": "https://portal.code.education/lms/#/180/163/121/conteudos?capitulo=831&conteudo=7220",
+    "course_type": "class",
+    "course_multiple": "false",
+    "vcs": "true"
+}

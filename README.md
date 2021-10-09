@@ -40,7 +40,7 @@ cd fc-kafka-connect
 docker-compose up
 ```
 
-> Access http://localhost
+> Access http://localhost:9021 to access Control Center
 
 <!-- ## :white_check_mark: Tests
 

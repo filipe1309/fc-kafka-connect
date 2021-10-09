@@ -23,7 +23,7 @@ INSERT INTO categories (name) values('Eletronics');
 SELECT * FROM categories;
 ```
 
-Upload `mysql.properties` connector file to Control Center connectors section.
+Upload `mysql.properties` connector file to Control Center (http://localhost:9021/) connectors section.
 New topis:
 - mysql-server
 - mysql-server.fullcycle.categories
@@ -34,3 +34,11 @@ INSERT INTO categories (name) values('Eletronics');
 ```
 
 Check the messages of `mysql-server.fullcycle.categories` topic
+
+Upload `mongodb.properties` connector file to Control Center connectors section.
+
+Access Mongo Express (http://localhost:8085)
+
+
+Kafka SMT (Single Message Transforms)
+https://docs.confluent.io/platform/current/connect/transforms/overview.html

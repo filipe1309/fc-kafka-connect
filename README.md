@@ -42,6 +42,8 @@ docker-compose up
 
 > Access http://localhost:9021 to access Control Center
 
+> Access http://localhost:8085 to access Mongo Express
+
 <!-- ## :white_check_mark: Tests
 
 After up the container:
